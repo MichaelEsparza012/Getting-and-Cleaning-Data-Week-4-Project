@@ -50,7 +50,7 @@ The following text files were imported and merged:
 
 4. Files were imported individually and applicable files were then merged into sets, completed prior to merging the two sets into the combined, complete dataset required.
 
-# Spcified Projects Tasks and Solutions (Source: https://www.coursera.org/learn/data-cleaning/peer/FIZtT/getting-and-cleaning-data-course-project).
+# Specified Projects Tasks and Solutions (Source: https://www.coursera.org/learn/data-cleaning/peer/FIZtT/getting-and-cleaning-data-course-project).
 
 1. Extracting Measurements on Mean and Standard Deviation. 
 
