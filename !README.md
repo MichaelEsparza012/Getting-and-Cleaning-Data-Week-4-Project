@@ -39,4 +39,4 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 (2) R Script. run_analysis.R.  This is the code that will meet the specified tasks of the project.
 
-(3) ProjectTidyData.txt.  The output of the R Script "run_analysis.R".
+(3) TidyData.txt.  The output of the R Script "run_analysis.R".
