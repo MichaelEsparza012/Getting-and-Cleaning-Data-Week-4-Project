@@ -9,7 +9,7 @@ Objective.  Prepare tidy data that can be used for later analysis.
 
 Specified Tasks.  The following tasks are required to be addresed:
 
-a. Create one R script called run_analysis.R that does the following.
+a. Create one R script called run_analysis.R that does the following (for the R Script, pleaase see file: run_analysis.R).
 
 (1) Merges the training and the test sets to create one data set.
 
